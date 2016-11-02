@@ -67,7 +67,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
-    <Content Include="README.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -78,7 +77,6 @@
   <ItemGroup>
     <Content Include="css\bootstrap.min.css" />
     <Content Include="Default.aspx" />
-    <Content Include="DobreMisli.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
