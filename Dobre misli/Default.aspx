@@ -14,7 +14,7 @@
         <center>
             <h1>..:: Dobre Misli ::..</h1>
             <br />
-        
+          Tu sem v kodi dodal svoj zapis
             <table style="margin: 20px;">
                 <tr>
                     <td>
